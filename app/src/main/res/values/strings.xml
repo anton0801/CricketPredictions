@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cricket Predictions</string>
+    <string name="match_predictions_label">Match predictions</string>
+    <string name="cricket_schedule_label">Cricket schedule</string>
+    <string name="news_label">News</string>
+    <string name="tips_news_schedule_label">Tips, News, Schedule</string>
+    <string name="news_description_test_label">West Indies have been unbeaten so far in the World T20, and will be coming into the semi-final high on confidence and form<br /><br />West Indies have been unbeaten so far in the World T20, and will be coming into the semi-final high on confidence and form</string>
+    <string name="read_more_label">READ MORE</string>
+    <string name="toolbar_second_title_label">Upcoming/Today\'s Match Prediction</string>
+    <string name="some_went_wrong">Some went wrong</string>
+    <string name="cricket_predictions_label">Cricket Predictions</string>
+    <string name="place_a_bet_label">PLACE A BET</string>
+    <string name="failed_to_load_icons_label">Failed to load team logos!</string>
+    <string name="see_recent_matches_professional_predictions_win_rate_92_9_label">SEE RECENT MATCHES’ PROFESSIONAL PREDICTIONS. WIN RATE 92,9%!</string>
+    <string name="read_full_article_label">READ FULL ARTICLE</string>
+</resources>

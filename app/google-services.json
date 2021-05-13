@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525377885155",
+    "firebase_url": "https://id-115-default-rtdb.firebaseio.com",
+    "project_id": "id-115",
+    "storage_bucket": "id-115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525377885155:android:ba6151f4a7ed520d6b46d6",
+        "android_client_info": {
+          "package_name": "com.cricketpredictions.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525377885155-q200llvsqur1r3a9cudfhl5iur9mr2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YCuA0JlpHaVIuJ1tMT9VV8wrPT8O9cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525377885155-q200llvsqur1r3a9cudfhl5iur9mr2el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
